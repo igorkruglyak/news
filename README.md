@@ -1,1 +1,1 @@
-# newspaper_proj
+# news
